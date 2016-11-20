@@ -1,11 +1,12 @@
-#Title
+#My App Features & Persona
 
 ## Description
-Add a one-sentence description of this project.
+Features my app will have
 
 ### Features
-- [x] **completed feature**: What this feature does
-- [ ] **pending feature**: What this feature does
+- [ ] **completed feature**: What this feature does
+- [x] **pending feature**: A place where people can find & purchase my product
+- [x] **pending feature**: Secure pay & checkout feature
 
 ### ScreenShots
 ![Image title](imagelink.jpg)
@@ -14,13 +15,14 @@ Add a one-sentence description of this project.
 
 ## Context
 ### Motivation
-Add a description of your motivation for starting this project. Include both where the idea came from, and the motivation for using the tech stack or other implementation features that you've used; what has this project taught you?
+To get more sales and create a site that will allow Search Engine Optimization.
 
 ### Personas
-Write a narrative of the people you envision using this app. what need is it solving in their life?
+Someone who is internet savvy and owns many devices including an iPad or similar mobile devices and may use it for work. She therefore needs a bag to allow her to carry this device anywhere and protect it from the elements.  She is also style concious and wants a good looking leather bag as she will take it to work and/or meetings.  She is too busy to go to a brick & mortar store and therefore wants to use the internet to her advantage and order online and process her payment securely.
 
 ### User Stories
-- As a (type of user/persona), I'd like to (take this action) so that (I fulfill this need).
+- As an internet savvy person, I'd like to search for my bag online so that I can save time and get on with my work.
+- As an internet shopper, I want to purchase my bag on a site that securly processes my credit card
 
 ### User Flow
 
